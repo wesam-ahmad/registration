@@ -15,4 +15,5 @@ Password, -> more than 8 characters, with at least 1 number, uppercase, and spec
 Email, -> follows email format 
 Phone -> 10 digits starts with 07
 
-Check for the username to see if it exists in the session storage or not, and prompt the user that it already exists.
+Check for the username to see if it exists in the session storage or not, and prompt the user that it already exists.  
+[live url ](https://wesam-ahmad.github.io/registration/)
